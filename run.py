@@ -2,7 +2,7 @@ from modules import *
 
 
 
-(lambda: mkdir(f"{getcwd()}\\frames") if config['OS'] == 'W' else mkdir(f"{getcwd()}/frames"))()
+(lambda: mkdir(f'{getcwd()}\\frames') if config['OS'] == 'W' else mkdir(f'{getcwd()}/frames'))()
 
 
 def smile(i):
@@ -28,6 +28,7 @@ def whoIsThere(API,chatID,img):
 i = 1
 while(True):
     smile(i)
-    whoIsThere(config['TelegramAPI'],config['chatID'])
+    if(config['OS'] == 'W'):
+        whoIsThere(config['TelegramAPI'],config['chatID'],f'{getcwd()}\\frames\\frame#{i}.jpg')
     i = i +1
     #sleep(0.5)
