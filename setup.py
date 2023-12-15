@@ -17,7 +17,8 @@ def getInfos():
     log('[SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.')
     config['OS'] = getOS()
     config['TelegramAPI'] = setTelegram()
-    print(config)
+    with open('config.py', 'w') as configpy:
+        configpy.writelines(config)
 
 
 getInfos()
