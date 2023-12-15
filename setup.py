@@ -13,6 +13,7 @@ def getOS():
 
 def getInfos():
     config['OS'] = getOS()
+    print(config)
 
 
 getInfos()
