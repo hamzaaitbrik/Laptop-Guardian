@@ -18,7 +18,7 @@ def getInfos():
     config['OS'] = getOS()
     config['TelegramAPI'] = setTelegram()
     with open('config.py', 'w') as configpy:
-        configpy.writelines(config)
+        configpy.write(f'config = {str(config)}')
 
 
 getInfos()
