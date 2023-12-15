@@ -2,10 +2,8 @@ from modules import *
 
 
 
-if(config['OS'] == 'W'):
-    mkdir(f'{getcwd()}\\frames')
-elif(config['OS'] == 'L'):
-    mkdir(f'{getcwd()}/frames')
+(lambda: mkdir(f"{getcwd()}\\frames") if config['OS'] == 'W' else mkdir(f"{getcwd()}/frames"))()
+
 
 def smile(i):
     webcam = VideoCapture(0)

@@ -1,1 +1,3 @@
-config = dict()
+config = {
+    'OS':'W'
+}
