@@ -9,6 +9,7 @@ def getInfos():
         while(OS not in ['L', 'W']):
             getOS()
         print(OS)
+    getOS()
 
 
 
