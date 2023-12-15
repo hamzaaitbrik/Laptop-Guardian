@@ -1,19 +1,21 @@
 from modules import *
 
-def take_photo(i):
+
+
+def smile(i):
     webcam = VideoCapture(0)
     if not webcam.isOpened():
-        print("Error: Unable to access the webcam")
+        log('[Main] Unable to access the webcam.')
         return
-    ret, frame = webcam.read()
-    if not ret:
-        print("Error: Unable to capture a frame")
+    isTaken, frame = webcam.read()
+    if not isTaken:
+        log('[Main] Unable to capture frames.')
         return
     webcam.release()
     imwrite(f'frame#{i}.jpg', frame)
 
 i = 1
 while(True):
-    take_photo(i)
+    smile(i)
     i = i +1
-    sleep(0.5)
+    #sleep(0.5)
