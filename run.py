@@ -16,7 +16,7 @@ def smile(i):
         return
     webcam.release()
     imwrite(f'frames\\frame#{i}.jpg', frame)
-    log(f'[Main] frame{i} was saved under frames directory.')
+    log(f'[Main] frame#{i} was saved under frames directory.')
 
 def whoIsThere(API,chatID,img):
     async def sendFrame(API,chatID):
