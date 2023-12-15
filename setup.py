@@ -1,5 +1,5 @@
 from modules import log
-
+config = dict()
 
 def getOS():
     log('[SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.')
@@ -11,10 +11,8 @@ def getOS():
 
 
 
-
 def getInfos():
-    print(getOS())
-
+    config['OS'] = getOS()
 
 
 getInfos()
