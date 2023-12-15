@@ -1,0 +1,94 @@
+[2023-12-15 16:32:31] - [SETUP] What operating system are you running? Please, insert W for Windows and L for Linux.
+[2023-12-15 16:32:32] - [SETUP] What operating system are you running? Please, insert W for Windows and L for Linux.
+[2023-12-15 16:32:33] - [SETUP] What operating system are you running? Please, insert W for Windows and L for Linux.
+[2023-12-15 16:32:34] - [SETUP] What operating system are you running? Please, insert W for Windows and L for Linux.
+[2023-12-15 16:32:35] - [SETUP] What operating system are you running? Please, insert W for Windows and L for Linux.
+[2023-12-15 16:32:38] - [SETUP] What operating system are you running? Please, insert W for Windows and L for Linux.
+[2023-12-15 16:33:33] - [SETUP] What operating system are you running? Please, insert W for Windows and L for Linux.
+[2023-12-15 16:33:43] - [SETUP] What operating system are you running? Please, insert W for Windows and L for Linux.
+[2023-12-15 16:35:11] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:35:14] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:35:17] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:35:18] - [SETUP] Insert L for Linux, and W for Windows.
+[2023-12-15 16:35:18] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:35:21] - [SETUP] Insert L for Linux, and W for Windows.
+[2023-12-15 16:35:21] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:35:24] - [SETUP] Insert L for Linux, and W for Windows.
+[2023-12-15 16:35:24] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:41:35] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:41:37] - [SETUP] Insert L for Linux, and W for Windows.
+[2023-12-15 16:41:37] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:41:39] - [SETUP] Insert L for Linux, and W for Windows.
+[2023-12-15 16:41:39] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:41:41] - [SETUP] Insert L for Linux, and W for Windows.
+[2023-12-15 16:41:41] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:42:24] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:42:25] - [SETUP] Insert L for Linux, and W for Windows.
+[2023-12-15 16:42:25] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:42:43] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:42:44] - [SETUP] Insert L for Linux, and W for Windows.
+[2023-12-15 16:42:44] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:42:47] - [SETUP] Insert L for Linux, and W for Windows.
+[2023-12-15 16:42:47] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:42:47] - [SETUP] Insert L for Linux, and W for Windows.
+[2023-12-15 16:42:47] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:42:48] - [SETUP] Insert L for Linux, and W for Windows.
+[2023-12-15 16:42:48] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:42:48] - [SETUP] Insert L for Linux, and W for Windows.
+[2023-12-15 16:42:48] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:42:48] - [SETUP] Insert L for Linux, and W for Windows.
+[2023-12-15 16:42:48] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:42:49] - [SETUP] Insert L for Linux, and W for Windows.
+[2023-12-15 16:42:49] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:42:49] - [SETUP] Insert L for Linux, and W for Windows.
+[2023-12-15 16:42:49] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:42:49] - [SETUP] Insert L for Linux, and W for Windows.
+[2023-12-15 16:42:49] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:42:50] - [SETUP] Insert L for Linux, and W for Windows.
+[2023-12-15 16:42:50] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:42:50] - [SETUP] Insert L for Linux, and W for Windows.
+[2023-12-15 16:42:50] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:42:50] - [SETUP] Insert L for Linux, and W for Windows.
+[2023-12-15 16:42:50] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:42:51] - [SETUP] Insert L for Linux, and W for Windows.
+[2023-12-15 16:42:51] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:42:52] - [SETUP] Insert L for Linux, and W for Windows.
+[2023-12-15 16:42:52] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:42:53] - [SETUP] Insert L for Linux, and W for Windows.
+[2023-12-15 16:42:53] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:42:54] - [SETUP] Insert L for Linux, and W for Windows.
+[2023-12-15 16:42:54] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:43:11] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:43:12] - [SETUP] Insert L for Linux, and W for Windows.
+[2023-12-15 16:43:12] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:45:02] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:45:06] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:45:07] - [SETUP] Insert L for Linux, and W for Windows.
+[2023-12-15 16:45:07] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:46:15] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:46:17] - [SETUP] Insert L for Linux, and W for Windows.
+[2023-12-15 16:46:17] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:46:18] - [SETUP] Insert L for Linux, and W for Windows.
+[2023-12-15 16:46:18] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:46:29] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:46:30] - [SETUP] Insert L for Linux, and W for Windows.
+[2023-12-15 16:46:30] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:46:30] - [SETUP] Insert L for Linux, and W for Windows.
+[2023-12-15 16:46:30] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:46:31] - [SETUP] Insert L for Linux, and W for Windows.
+[2023-12-15 16:46:31] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:46:31] - [SETUP] Insert L for Linux, and W for Windows.
+[2023-12-15 16:46:31] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:47:01] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:47:02] - [SETUP] Insert L for Linux, and W for Windows.
+[2023-12-15 16:47:02] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:47:03] - [SETUP] Insert L for Linux, and W for Windows.
+[2023-12-15 16:47:03] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:47:03] - [SETUP] Insert L for Linux, and W for Windows.
+[2023-12-15 16:47:03] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:47:03] - [SETUP] Insert L for Linux, and W for Windows.
+[2023-12-15 16:47:03] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:47:04] - [SETUP] Insert L for Linux, and W for Windows.
+[2023-12-15 16:47:04] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
+[2023-12-15 16:47:04] - [SETUP] Insert L for Linux, and W for Windows.
+[2023-12-15 16:47:04] - [SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.
