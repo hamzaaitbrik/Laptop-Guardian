@@ -12,7 +12,7 @@ def smile(i):
         log('[Main] Unable to capture frames.')
         return
     webcam.release()
-    imwrite(f'frame#{i}.jpg', frame)
+    imwrite(f'.\\frames\\frame#{i}.jpg', frame)
 
 i = 1
 while(True):
