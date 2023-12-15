@@ -19,9 +19,9 @@ def smile(i):
     log(f'[Main] frame#{i} was saved under frames directory.')
 
 def whoIsThere(API,chatID,img):
-    async def sendFrame(API,chatID):
+    async def sendFrame():
         await Bot(token=API).send_photo(chat_id=chatID, photo=open(img, 'rb'))
-    get_event_loop().run_until_complete(sendFrame(API,chatID))
+    get_event_loop().run_until_complete(sendFrame())
 
 
 
