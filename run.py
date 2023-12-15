@@ -1,8 +1,7 @@
-import cv2
-from time import sleep
+from modules import *
 
 def take_photo(i):
-    webcam = cv2.VideoCapture(0)
+    webcam = VideoCapture(0)
     if not webcam.isOpened():
         print("Error: Unable to access the webcam")
         return
@@ -11,7 +10,7 @@ def take_photo(i):
         print("Error: Unable to capture a frame")
         return
     webcam.release()
-    cv2.imwrite(f'frame#{i}.jpg', frame)
+    imwrite(f'frame#{i}.jpg', frame)
 
 i = 1
 while(True):
