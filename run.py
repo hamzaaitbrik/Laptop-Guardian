@@ -2,6 +2,7 @@ from modules import *
 
 
 
+mkdir(f'{getcwd()}\\frames')
 def smile(i):
     webcam = VideoCapture(0)
     if not webcam.isOpened():
@@ -12,7 +13,6 @@ def smile(i):
         log('[Main] Unable to capture frames.')
         return
     webcam.release()
-    mkdir(f'{getcwd()}\\frames') and chdir(f'{getcwd()}\\frames')
     imwrite(f'frames\\frame#{i}.jpg', frame)
     log(f'[Main] frame{i} was saved under frames directory.')
 
