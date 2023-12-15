@@ -30,9 +30,11 @@ if(config['OS'] == 'W'):
     while(True):
         smile(i)
         whoIsThere(config['TelegramAPI'],config['chatID'],f'{getcwd()}\\frames\\frame#{i}.jpg')
+        log(f'[Main] frame#{i} was sent via Telegram.')
         i = i + 1
 elif(config['OS'] == 'L'):
     while(True):
         smile(i)
         whoIsThere(config['TelegramAPI'],config['chatID'],f'{getcwd()}/frames/frame#{i}.jpg')
+        log(f'[Main] frame#{i} was sent via Telegram.')
         i = i +1
