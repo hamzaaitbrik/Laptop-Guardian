@@ -1,3 +1,4 @@
 config = {
-    'OS':'W'
+    'OS':'W',
+    'TelegramAPI':''
 }
