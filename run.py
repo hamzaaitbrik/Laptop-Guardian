@@ -30,5 +30,7 @@ while(True):
     smile(i)
     if(config['OS'] == 'W'):
         whoIsThere(config['TelegramAPI'],config['chatID'],f'{getcwd()}\\frames\\frame#{i}.jpg')
+    elif(config['OS'] == 'L'):
+        whoIsThere(config['TelegramAPI'],config['chatID'],f'{getcwd()}/frames/frame#{i}.jpg')
     i = i +1
     #sleep(0.5)
