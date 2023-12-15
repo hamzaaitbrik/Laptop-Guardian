@@ -26,11 +26,13 @@ def whoIsThere(API,chatID,img):
 
 
 i = 1
-while(True):
-    smile(i)
-    if(config['OS'] == 'W'):
+if(config['OS'] == 'W'):
+    while(True):
+        smile(i)
         whoIsThere(config['TelegramAPI'],config['chatID'],f'{getcwd()}\\frames\\frame#{i}.jpg')
-    elif(config['OS'] == 'L'):
+        i = i + 1
+elif(config['OS'] == 'L'):
+    while(True):
+        smile(i)
         whoIsThere(config['TelegramAPI'],config['chatID'],f'{getcwd()}/frames/frame#{i}.jpg')
-    i = i +1
-    #sleep(0.5)
+        i = i +1
