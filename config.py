@@ -1,1 +1,1 @@
-config = {'OS': '', 'TelegramAPI': ''}
+config = {'OS': '', 'TelegramAPI': '', 'chatID':''}
