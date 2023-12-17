@@ -5,17 +5,17 @@ config = dict()
 def getOS():
     OS = input('\n--> ').upper()
     if(OS not in ['L', 'W']):
-        log('[SETUP] Insert L for Linux, and W for Windows.')
+        log('[Setup] Insert L for Linux, and W for Windows.')
         return getOS()
     return OS
 
 def setTelegram():
-    log('[SETUP] Insert your Telegram BOT API. Make sure it is correct before you proceed.')
+    log('[Setup] Insert your Telegram BOT API. Make sure it is correct before you proceed.')
     TelegramAPI = input('\n--> ')
     return TelegramAPI
 
 def getChatID(API):
-    log('[SETUP] Start a conversation with your bot by clicking Start.')
+    log('[Setup] Start a conversation with your bot by clicking Start.')
     log(f'The program will temporarily stop until you start a conversation with the bot with this API:{API}. Click Enter if that has already been done.')
     input()
     try:
@@ -25,7 +25,7 @@ def getChatID(API):
 
 
 def getInfos():
-    log('[SETUP] What operating system are you running? Please, insert L for Linux and W for Windows.')
+    log('[Setup] What operating system are you running? Please, insert L for Linux and W for Windows.')
     config['OS'] = getOS()
     config['TelegramAPI'] = setTelegram()
     config['chatID'] = getChatID(config['TelegramAPI'])
