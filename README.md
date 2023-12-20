@@ -4,3 +4,4 @@ This is a free-to-use software that when ran, it keeps watch over your laptop wh
 First, you need to have Python installed into your system, you also need a Telegram account.<br>
 Python can be installed from this website: https://www.python.org/downloads/. Python 3 is recommended; This software was built using Python 3.11.7<br>
 You can set your Telegram account by downloading Telegram into your phone or desktop, then following their straightforward process.
+# How to set it up?
