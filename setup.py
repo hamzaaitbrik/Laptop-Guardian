@@ -10,7 +10,7 @@ def getOS():
     return OS
 
 def setTelegram():
-    log('[Setup] Insert your Telegram BOT API. Make sure it is correct before you proceed.')
+    log('[Setup] Insert your Telegram BOT API. Make sure it is correct before you proceed. Here\'s how you can make a Telegram bot: https://youtu.be/UQrcOj63S2o')
     TelegramAPI = input('\n--> ')
     return TelegramAPI
 
