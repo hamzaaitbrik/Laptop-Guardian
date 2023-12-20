@@ -5,3 +5,4 @@ First, you need to have Python installed into your system, you also need a Teleg
 Python can be installed from this website: https://www.python.org/downloads/. Python 3 is recommended; This software was built using Python 3.11.7<br>
 You can set your Telegram account by downloading Telegram into your phone or desktop, then following their straightforward process.
 # How to set it up?
+Clone this repository into your local machine using the command ```git clone https://github.com/hamzaaitbrik/Laptop-Guardian```
