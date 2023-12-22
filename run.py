@@ -18,7 +18,7 @@ def smile(i):
         log('[Main] Unable to capture frames.')
         return
     webcam.release()
-    imwrite(f'frames\\frame#{i}.jpg', frame)
+    imwrite(f'frames{datetime.now().strftime(r"%d%m%Y")}\\frame#{i}.jpg', frame)
     log(f'[Main] frame#{i} was saved under frames directory.')
 
 def whoIsThere(API,chatID,img):
